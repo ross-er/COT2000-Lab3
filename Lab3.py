@@ -1,4 +1,6 @@
-name - "Ross"
-numbers - {1, 2, 3, 4, 5}
+name = "Ross"
+numbers = {1, 10, 100, 1000, 10000}
+team = "Chicago Bears"
 print("Student:", name)
-print("Numbers", numbers)
+print("Numbers:", numbers)
+print("Team Name:", team)
