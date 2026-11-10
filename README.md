@@ -4,7 +4,7 @@ A repository to keep COT2000 labs code
 # My First Markdown Document
 ## Introduction
 ### About Me
-My name is **Abit Jurkuch**.
+My name is **Ross Jurgens**.
 I am learning *Python programming*.
 This is an example of **bold text**.
 This is an example of *italic text*.
